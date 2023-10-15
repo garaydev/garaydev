@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @garaydev or Angel Garay.
 - 👀 I’m interested in DevOps, technical operations, technical architecture and really anything tech.
-- 🌱 I’m currently learning everything to do with DevOps, DevSecOps and Operations and Web3.
+- 🌱 I’m currently learning everything to do with DevOps, DevSecOps and Operations and Blazor.
 - 😎 I’m looking to collaborate on Microsoft projects and smaller OSS projects. 
-- 📫 Want to reach me? Get in touch @ angel@pararom.cloud.
+- 📫 Want to reach me? Get in touch @ angel@garaydev.com
